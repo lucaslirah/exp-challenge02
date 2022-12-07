@@ -40,7 +40,7 @@ O treine.me é uma página para divulgação de serviços de treinos personaliza
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](file:///G:/Meu%20Drive/DEV/rocket/Explorer/estruturando-html/Projeto%2002/index.html). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1&t=yeNvLQZ774xCJM0U-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
